@@ -1,5 +1,13 @@
 # Ohmyfood
 
+# English 
+
+This work was carried out for project 3 of the OpenClassrooms Web Integrator training. This repo contains the code of the OhMyFood mobile site. OhMyFood is a startup that wants to impose itself on the gastronomy market. The site will allow its users to view the menus of gourmet restaurants and book a table in the restaurant. They will also be able to choose their menus in advance to reduce the waiting time on site. The work on this repo focused on the integration of a model, the realization of CSS animations and the use of Sass.
+
+Technology used This project was built in HTML5 and CSS3 and uses the following tool:
+
+➡️ Sass(v1.61.1 or later)
+
 # Français
 
 Ce travail a été réalisé pour le projet 3 de la formation Intégrateur Web d'OpenClassrooms.
