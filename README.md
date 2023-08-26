@@ -1,5 +1,7 @@
 # Ohmyfood
 
+![16559016787093_Untitled design](https://github.com/John-Laguerre/Ohmyfood/assets/137527343/b98fc5cd-4082-498a-9f3d-52f688f5c664)
+
 # English 
 
 This work was carried out for project 3 of the OpenClassrooms Web Integrator training. This repo contains the code of the OhMyFood mobile site. OhMyFood is a startup that wants to impose itself on the gastronomy market. The site will allow its users to view the menus of gourmet restaurants and book a table in the restaurant. They will also be able to choose their menus in advance to reduce the waiting time on site. The work on this repo focused on the integration of a model, the realization of CSS animations and the use of Sass.
