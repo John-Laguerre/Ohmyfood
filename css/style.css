@@ -595,6 +595,13 @@ a {
     width: 30%;
   }
 }
+.functioning__step:hover {
+  background-color: #f2eafb;
+  box-shadow: 0 4px 10px 0 #bcbcbc;
+}
+.functioning__step:hover > .functioning__step--icon {
+  color: #9356DC;
+}
 .functioning__step--number {
   display: flex;
   align-items: center;
