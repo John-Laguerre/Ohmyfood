@@ -105,6 +105,15 @@
     @include desktop__responsive {
         width: 30%;
     }
+
+    &:hover {
+        background-color: lighten($color-primary, 35%);
+        @include object-shadow(darken($shadow, 10%));
+
+        &>.functioning__step--icon {
+            color: $color-primary;
+        }
+    }
     
     &--number {
         display: flex;
